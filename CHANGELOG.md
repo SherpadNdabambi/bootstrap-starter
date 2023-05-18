@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
-## [1.0.1] (8 May 2023)
+## [1.0.1] (18 May 2023)
 
 1. README file to document the project.
 1. This CHANGELOG file to track changes to the project.
