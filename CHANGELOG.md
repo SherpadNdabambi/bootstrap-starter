@@ -6,11 +6,12 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 
 ## [Unreleased]
 
-## [1.0.2] (29 May 2023)
+## [1.0.2] (30 May 2023)
 
 ### Added
 
 1. Add license.
+1. Add logo.
 
 ### Changed
 
