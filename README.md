@@ -1,3 +1,6 @@
+<!-- Top anchor -->
+<div id="top">
+
 <!-- Project Shields -->
 
 <div align=center>
