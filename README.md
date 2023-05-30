@@ -68,7 +68,7 @@ Search and replace the following:
 
 ### Built With
 
-[![HTML shield][HTML shield url]][HTML url]
+[![HTML5 shield][HTML5 shield url]][HTML5 url]
 [![Bootstrap shield][Bootstrap shield url]][Bootstrap url]
 
 <div align=right>
@@ -173,8 +173,8 @@ See the changelog [here][changelog url].
 
 Sherpad Ndabambi
 
-<span title="Personal website">[<img alt="Website icon" src="https://raw.githubusercontent.com/sherpadndabambi/html-markdown-shortcuts/main/img/website-icon.png" style="height: 32px">][Personal website url]</span>
-<span title="Email">[<img alt="Gmail icon" src="https://raw.githubusercontent.com/sherpadndabambi/html-markdown-shortcuts/main/img/gmail-icon.png" style="height: 32px">][Email address]<span>
+<span title="Personal website">[<img alt="Website icon" src="./img/website-icon.png" style="height: 32px">][Personal website url]</span>
+<span title="Email">[<img alt="Gmail icon" src="./img/gmail-icon.png" style="height: 32px">][Email address]<span>
 
 <div align=right>
 
@@ -192,8 +192,13 @@ Distributed under the DBAD License. See [LICENSE][License url] for more informat
 
 ## Acknowledgments
 
-1. [Website icon][Website icon url] edited from [Original website icon][Original website icon url] by
-1. [Gmail icon][Gmail icon source url] by
+1. [Logo][Logo url] edited from:
+
+   1. [Document Clean SVG vector][Document Clean SVG vector url] from [SVG Repo][SVG Repo url].
+   1. [Bootstrap logo][Bootstrap logo url] by [Bootstrap][Bootstrap url] from [Bootstrap Blog][Bootstrap Blog url].
+
+1. [Website icon][Website icon url] edited from [Website SVG vector][Website SVG vector url] from [SVG Repo][SVG Repo url].
+1. [Gmail icon][Gmail icon url] edited from [Gmail SVG vector][Gmail SVG vector url] from [SVG Repo][SVG Repo url].
 1. Images in this project have been compressed using [TinyPNG][TinyPNG url].
 1. Parts of this README are based on the [Best-README-Template][Best-README-Template url] template.
 
@@ -210,16 +215,26 @@ Distributed under the DBAD License. See [LICENSE][License url] for more informat
 [Issues shield url]: https://img.shields.io/github/issues/sherpadNdabambi/bootstrap-starter.svg?style=flat
 [Issues url]: https://github.com/sherpadNdabambi/bootstrap-starter/issues
 [DBAD License shield url]: https://img.shields.io/badge/license-DBAD-blue?style=flat
-[License url]: https://github.com/sherpadNdabambi/bootstrap-starter/blob/main/LICENSE
+[License url]: ./LICENSE
 [Logo url]: ./img/bootstrap-starter-logo.png
 [Repo url]: https://github.com/SherpadNdabambi/bootstrap-starter/
 [Bootstrap Starter screenshot url]: ./img/og-image.png
 [Bootstrap Starter url]: https://github.com/sherpadNdabambi/bootstrap-starter/
 [Bootstrap shield url]: https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white
-[HTML shield url]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
-[HTML url]: https://html.spec.whatwg.org/multipage/
+[HTML5 shield url]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
+[HTML5 url]: https://html.spec.whatwg.org/multipage/
 [Bootstrap url]: https://getbootstrap.com
 [Documentation url]: https://sherpadndabambi.github.io/bootstrap-starter/
-[changelog url]: https://github.com/SherpadNdabambi/bootstrap-starter/blob/main/CHANGELOG.md
+[changelog url]: ./CHANGELOG.md
 [Personal website url]: http://sherpadndabambi.github.io/
 [Email address]: mailto:sgndabambi@gmail.com
+[Document Clean SVG vector url]: https://www.svgrepo.com/svg/506180/document-clean
+[Bootstrap logo url]: https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg
+[Bootstrap Blog url]: https://blog.getbootstrap.com/
+[Website icon url]: ./img/website-icon.png
+[Website SVG vector url]: https://www.svgrepo.com/svg/415803/website-ui-web
+[SVG Repo url]: https://www.svgrepo.com/
+[Gmail icon url]: ./img/gmail-icon.png
+[Gmail SVG vector url]: https://www.svgrepo.com/svg/349379/gmail-old
+[TinyPNG url]: https://tinypng.com/
+[Best-README-Template url]: https://github.com/othneildrew/Best-README-Template
