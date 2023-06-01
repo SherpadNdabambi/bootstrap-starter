@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 
 ## [Unreleased]
 
+## [1.0.4] (30 May 2023)
+
+### Changed
+
+1. Add CSS3 to Built With section of README.
+1. Add JavaScript to Built With section of README.
+1. Add jQuery to Built With section of README.
+
 ## [1.0.3] (30 May 2023)
 
 ### Changed
@@ -54,6 +62,7 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 [Keep a Changelog url]: https://keepachangelog.com/en/1.0.0/
 [Semantic Versioning url]: https://semver.org/spec/v2.0.0.html
 [reference style links url]: https://www.markdownguide.org/basic-syntax/#reference-style-links
+[1.0.4]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v1.0.4
 [1.0.3]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v1.0.3
 [1.0.2]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v1.0.2
 [Best-README-Template url]: https://github.com/othneildrew/Best-README-Template
