@@ -8,12 +8,21 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 
 ## [1.0.4] (30 May 2023)
 
+### Added
+
+1. Add TypeScript.
+
 ### Changed
 
 1. Add CSS3 to Built With section of README.
+1. Add TypeScript to Built With section of README.
 1. Add JavaScript to Built With section of README.
 1. Add jQuery to Built With section of README.
 1. Remove commented code from JS script.
+
+### Deprecated
+
+1. JS scripts will be removed.
 
 ## [1.0.3] (30 May 2023)
 
