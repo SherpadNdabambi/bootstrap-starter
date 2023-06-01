@@ -6,11 +6,12 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 
 ## [Unreleased]
 
-## [1.0.4] (30 May 2023)
+## [1.1.0] (1 June 2023)
 
 ### Added
 
 1. Add TypeScript.
+1. Add RequireJS.
 
 ### Changed
 
