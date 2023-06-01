@@ -19,6 +19,7 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 1. Add JavaScript to Built With section of README.
 1. Add jQuery to Built With section of README.
 1. Remove commented code from JS script.
+1. Remove unrecommended type attribute from link tag.
 
 ### Deprecated
 
