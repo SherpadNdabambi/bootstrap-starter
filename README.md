@@ -58,6 +58,7 @@ Search and replace the following:
 | README.md    | `sherpadNdabambi`      | `YourGitHubUsername`     |
 | README.md    | `sgndabambi@gmail.com` | `your_email@address.com` |
 | CHANGELOG.md | `Bootstrap Starter`    | `Your Project Name`      |
+| CHANGELOG.md | `bootstrap-starter`    | `Your-Project-Name`      |
 | LICENSE      | `Sherpad Ndabambi`     | `Your Name`              |
 
 <div align=right>
