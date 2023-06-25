@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 
 ## [Unreleased]
 
+## [1.1.1] (25 June 2023)
+
+1. Add gitignore file.
+1. Add package.json.
+1. Add package-lock.json.
+
 ## [1.1.0] (25 June 2023)
 
 ### Added
@@ -76,6 +82,7 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 [Keep a Changelog url]: https://keepachangelog.com/en/1.0.0/
 [Semantic Versioning url]: https://semver.org/spec/v2.0.0.html
 [reference style links url]: https://www.markdownguide.org/basic-syntax/#reference-style-links
+[1.1.1]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v1.1.1
 [1.1.0]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v1.1.0
 [1.0.4]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v1.0.4
 [1.0.3]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v1.0.3
