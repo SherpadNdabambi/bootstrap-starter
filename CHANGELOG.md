@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 
 ## [1.1.1] (25 June 2023)
 
+### Added
+
 1. Add gitignore file.
 1. Add package.json.
 1. Add package-lock.json.
