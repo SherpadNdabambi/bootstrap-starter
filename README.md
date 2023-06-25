@@ -51,15 +51,18 @@ Starter template for Bootstrap projects.
 
 Search and replace the following:
 
-| Search in    | Search for             | Replace with             |
-| ------------ | ---------------------- | ------------------------ |
-| README.md    | `Bootstrap Starter`    | `Your Project Name`      |
-| README.md    | `bootstrap-starter`    | `Your-Project-Name`      |
-| README.md    | `sherpadNdabambi`      | `YourGitHubUsername`     |
-| README.md    | `sgndabambi@gmail.com` | `your_email@address.com` |
-| CHANGELOG.md | `Bootstrap Starter`    | `Your Project Name`      |
-| CHANGELOG.md | `bootstrap-starter`    | `Your-Project-Name`      |
-| LICENSE      | `Sherpad Ndabambi`     | `Your Name`              |
+| Search in    | Search for                                 | Replace with               |
+| ------------ | ------------------------------------------ | -------------------------- |
+| README.md    | `Bootstrap Starter`                        | `Your Project Name`        |
+| README.md    | `Starter template for Bootstrap projects.` | `Your project description` |
+| README.md    | `bootstrap-starter`                        | `Your-Project-Name`        |
+| README.md    | `sherpadNdabambi`                          | `YourGitHubUsername`       |
+| README.md    | `sgndabambi@gmail.com`                     | `your_email@address.com`   |
+| CHANGELOG.md | `Bootstrap Starter`                        | `Your Project Name`        |
+| CHANGELOG.md | `bootstrap-starter`                        | `Your-Project-Name`        |
+| index.html   | `Bootstrap Starter`                        | `Your Project Name`        |
+| index.html   | `Starter template for Bootstrap projects.` | `Your project description` |
+| LICENSE      | `Sherpad Ndabambi`                         | `Your Name`                |
 
 <div align=right>
 
