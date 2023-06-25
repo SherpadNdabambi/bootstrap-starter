@@ -8,6 +8,12 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 
 ## [1.1.1] (25 June 2023)
 
+### Changed
+
+1. Fix broken links in README.
+
+## [1.1.1] (25 June 2023)
+
 ### Added
 
 1. Add gitignore file.
