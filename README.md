@@ -33,7 +33,7 @@
    1. [Built With](#built-with)
 1. [Getting Started](#getting-started)
    1. [Prerequisites](#prerequisites)
-   1. [Installation](#installation)
+   1. [Setting Up](#setting-up)
 1. [Usage](#usage)
 1. [Roadmap](#roadmap)
 1. [Contributing](#contributing)
@@ -70,6 +70,10 @@ Search and replace the following:
 
 [![HTML5 shield][HTML5 shield url]][HTML5 url]
 [![Bootstrap shield][Bootstrap shield url]][Bootstrap url]
+[![CSS3 shield][CSS3 shield url]][CSS3 url]
+[![Typescript][Typescript shield]][Typescript url]
+[![JavaScript shield][JavaScript shield url]][JavaScript url]
+[![jQuery shield][jQuery shield url]][jQuery url]
 
 <div align=right>
 
@@ -83,28 +87,28 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Make sure you have the following packages installed globally on your machine to use this template.
 
-1. npm
+1. [Node][Node url].
+1. The TypeScript compiler.
 
-```sh
-npm install npm@latest -g
-```
+   ```sh
+   npm i -g typescript
+   ```
 
-### Installation
+### Setting Up
 
-1. Get a free API Key at [https://example.com]
-1. Clone the repo
+1. Clone the repo.
+
    ```sh
    git clone https://github.com/sherpadNdabambi/bootstrap-starter.git
    ```
-1. Install NPM packages
+
+1. Compile TypeScript to JavaScript.
+
    ```sh
-   npm install
-   ```
-1. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
+   tsc ./ts/includeLocal.ts --outFile ./js/includeLocal.js
+   tsc ./ts/scripts.ts --outFile ./js/scripts.js
    ```
 
 <div align=right>
@@ -224,6 +228,15 @@ Distributed under the DBAD License. See [LICENSE][License url] for more informat
 [HTML5 shield url]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 [HTML5 url]: https://html.spec.whatwg.org/multipage/
 [Bootstrap url]: https://getbootstrap.com
+[CSS3 shield url]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
+[CSS3 url]: https://www.w3.org/TR/CSS/#css
+[Typescript shield]: https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white
+[Typescript url]: https://www.typescriptlang.org/
+[JavaScript shield url]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+[JavaScript url]: www.ecma-international.org/publications-and-standards/standards/ecma-262/
+[jQuery shield url]: https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white
+[jQuery url]: https://jquery.com/
+[Node url]: https://nodejs.org/download/
 [Documentation url]: https://sherpadndabambi.github.io/bootstrap-starter/
 [changelog url]: ./CHANGELOG.md
 [Personal website url]: http://sherpadndabambi.github.io/
