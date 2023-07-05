@@ -111,8 +111,7 @@ Make sure you have the following packages installed globally on your machine to 
 1. Compile TypeScript to JavaScript.
 
    ```sh
-   tsc ./ts/includeLocal.ts --outFile ./js/includeLocal.js
-   tsc ./ts/scripts.ts --outFile ./js/scripts.js
+   tsc
    ```
 
 <div align=right>
