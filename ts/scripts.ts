@@ -1,9 +1,7 @@
-jQuery(function () {
-  setFooterYear();
-});
+setFooterYear();
 
 function setFooterYear() {
   let date = new Date(),
     year = date.getFullYear();
-  $("#footerYear").text(year.toString());
+  document.querySelector("#footerYear").textContent = year.toString();
 }
