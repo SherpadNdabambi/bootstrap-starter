@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 
 ## [Unreleased]
 
+## [2.0.2] (22 September 2024)
+
+### Changed
+
+1. Update prerequisites.
+1. Update Node url.
+
 ## [2.0.1] (5 July 2023)
 
 ### Changed
@@ -115,6 +122,7 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 [Keep a Changelog url]: https://keepachangelog.com/en/1.0.0/
 [Semantic Versioning url]: https://semver.org/spec/v2.0.0.html
 [reference style links url]: https://www.markdownguide.org/basic-syntax/#reference-style-links
+[2.0.2]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v2.0.2
 [2.0.1]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v2.0.1
 [2.0.0]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v2.0.0
 [1.1.4]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v1.1.4

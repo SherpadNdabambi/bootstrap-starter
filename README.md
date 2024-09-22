@@ -94,6 +94,7 @@ To get a local copy up and running follow these simple example steps.
 Make sure you have the following packages installed globally on your machine to use this template.
 
 1. [Node][Node url].
+1. [npm][npm url].
 1. The TypeScript compiler.
 
    ```sh
@@ -239,7 +240,9 @@ Distributed under the DBAD License. See [LICENSE][License url] for more informat
 [JavaScript url]: www.ecma-international.org/publications-and-standards/standards/ecma-262/
 [jQuery shield url]: https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white
 [jQuery url]: https://jquery.com/
-[Node url]: https://nodejs.org/download/
+[Node url]: https://nodejs.org/en/download/package-manager/
+
+[npm url]: [https://www.npmjs.com/]
 [Documentation url]: https://sherpadndabambi.github.io/bootstrap-starter/
 [changelog url]: ./CHANGELOG.md
 [Personal website url]: http://sherpadndabambi.github.io/
