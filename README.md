@@ -38,7 +38,7 @@
 1. [Roadmap](#roadmap)
 1. [Contributing](#contributing)
 1. [Changelog](#changelog)
-1. [Contact Me](#changelog)
+1. [Contact Me](#contact-me)
 1. [Acknowledgments](#acknowledgments)
 
 </details>
@@ -248,11 +248,11 @@ Distributed under the DBAD License. See [LICENSE][License url] for more informat
 [Personal website url]: http://sherpadndabambi.github.io/
 [Email address]: mailto:sgndabambi@gmail.com
 [Document Clean SVG vector url]: https://www.svgrepo.com/svg/506180/document-clean
+[SVG Repo url]: https://www.svgrepo.com/
 [Bootstrap logo url]: https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg
 [Bootstrap Blog url]: https://blog.getbootstrap.com/
 [Website icon url]: ./img/website-icon.png
 [Website SVG vector url]: https://www.svgrepo.com/svg/415803/website-ui-web
-[SVG Repo url]: https://www.svgrepo.com/
 [Gmail icon url]: ./img/gmail-icon.png
 [Gmail SVG vector url]: https://www.svgrepo.com/svg/349379/gmail-old
 [TinyPNG url]: https://tinypng.com/
