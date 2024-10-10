@@ -22,7 +22,7 @@
       property="og:description"
       content="Starter template for Bootstrap projects."
     />
-    <meta property="og:image" content="img/og-image.jpg" />
+    <meta property="og:image" content="./assets/img/og-image.jpg" />
 
     <!--Twitter cards-->
     <meta name="twitter:title" content="Bootstrap Starter" />
@@ -32,12 +32,12 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
     />
-    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./assets/css/styles.css" />
 
     <!--scripts-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js"></script>
-    <script src="./js/includeLocal.js"></script>
+    <script src="./assets/js/includeLocal.js"></script>
     <script defer>
       window.bootstrap ||
         (includeLocalCSS("bootstrap.min.css") &&
@@ -46,8 +46,11 @@
     <script defer>
       window.Popper || includeLocalJS("popper.min.js");
     </script>
-    <!-- data-main attribute tells require.js to load ./js/series.js after require.js loads. -->
-    <script data-main="./js/scripts" src="./js/vendor/require.js"></script>
+    <!-- data-main attribute tells require.js to load ./assets/js/series.js after require.js loads. -->
+    <script
+      data-main="./assets/js/scripts"
+      src="./assets/js/vendor/require.js"
+    ></script>
   </head>
 
   <body>
