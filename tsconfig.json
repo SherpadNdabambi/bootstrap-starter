@@ -2,8 +2,8 @@
   "compilerOptions": {
     "lib": ["es2018", "dom"],
     "module": "es2022",
-    "outDir": "./js/",
+    "outDir": "./assets/js/",
     "target": "es2017"
   },
-  "files": ["./ts/includeLocal.ts", "./ts/scripts.ts"]
+  "files": ["./assets/ts/includeLocal.ts", "./assets/ts/scripts.ts"]
 }
