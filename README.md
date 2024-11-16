@@ -241,8 +241,7 @@ Distributed under the DBAD License. See [LICENSE][License url] for more informat
 [jQuery shield url]: https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white
 [jQuery url]: https://jquery.com/
 [Node url]: https://nodejs.org/en/download/package-manager/
-
-[npm url]: [https://www.npmjs.com/]
+[npm url]: https://www.npmjs.com/
 [Documentation url]: https://sherpadndabambi.github.io/bootstrap-starter/
 [changelog url]: ./CHANGELOG.md
 [Personal website url]: http://sherpadndabambi.github.io/
