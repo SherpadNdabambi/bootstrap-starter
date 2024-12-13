@@ -39,6 +39,7 @@
 1. [Contributing](#contributing)
 1. [Changelog](#changelog)
 1. [Contact Me](#contact-me)
+1. [License](#license)
 1. [Acknowledgments](#acknowledgments)
 
 </details>
@@ -51,18 +52,19 @@ Starter template for Bootstrap projects.
 
 Search and replace the following:
 
-| Search in    | Search for                                 | Replace with               |
-| ------------ | ------------------------------------------ | -------------------------- |
-| README.md    | `Bootstrap Starter`                        | `Your Project Name`        |
-| README.md    | `Starter template for Bootstrap projects.` | `Your project description` |
-| README.md    | `bootstrap-starter`                        | `Your-Project-Name`        |
-| README.md    | `sherpadNdabambi`                          | `YourGitHubUsername`       |
-| README.md    | `sgndabambi@gmail.com`                     | `your_email@address.com`   |
-| CHANGELOG.md | `Bootstrap Starter`                        | `Your Project Name`        |
-| CHANGELOG.md | `bootstrap-starter`                        | `Your-Project-Name`        |
-| index.html   | `Bootstrap Starter`                        | `Your Project Name`        |
-| index.html   | `Starter template for Bootstrap projects.` | `Your project description` |
-| LICENSE      | `Sherpad Ndabambi`                         | `Your Name`                |
+| Search in         | Search for                                 | Replace with               |
+| ----------------- | ------------------------------------------ | -------------------------- |
+| CHANGELOG.md      | `the Bootstrap Starter template`           | `Your Project Name`        |
+| CHANGELOG.md      | `bootstrap-starter`                        | `your-project-name`        |
+| index.html        | `Bootstrap Starter`                        | `Your Project Name`        |
+| index.html        | `Starter template for Bootstrap projects.` | `Your project description` |
+| LICENSE           | `Sherpad Ndabambi`                         | `Your Name`                |
+| package-lock.json | `bootstrap-starter`                        | `your-project-name`        |
+| README.md         | `Bootstrap Starter`                        | `Your Project Name`        |
+| README.md         | `Starter template for Bootstrap projects.` | `Your project description` |
+| README.md         | `bootstrap-starter`                        | `your-project-name`        |
+| README.md         | `sherpadNdabambi`                          | `YourGitHubUsername`       |
+| README.md         | `sgndabambi@gmail.com`                     | `your_email@address.com`   |
 
 <div align=right>
 
@@ -87,7 +89,7 @@ Search and replace the following:
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
@@ -98,7 +100,7 @@ Make sure you have the following packages installed globally on your machine to 
 1. The TypeScript compiler.
 
    ```sh
-   npm i -g typescript
+   sudo npm i -g typescript
    ```
 
 ### Setting Up
@@ -139,7 +141,7 @@ _For more examples, please refer to the [Documentation][Documentation url]_
   - [ ] Add nested feature 1
 - [ ] Add feature 2
 
-See the [open issues][open issues url] for a full list of proposed features (and known issues).
+See the [open issues][Issues url] for a full list of proposed features (and known issues).
 
 <div align=right>
 
@@ -154,9 +156,9 @@ To add a feature or fix a bug, fork the repo and create a pull request.
 Example instructions to add a feature:
 
 1. Fork the Project
-1. Create your Feature Branch (`git checkout -b feature/amazing-feature`)
+1. Create your Feature Branch (`git checkout -b feature/amazing-feature-YourName`)
 1. Commit your Changes (`git commit -m 'Add some amazing feature'`)
-1. Push to the Branch (`git push origin feature/amazing-feature`)
+1. Push to the Branch (`git push origin feature/amazing-feature-YourName`)
 1. Open a Pull Request
 
 To suggest a new feature or report a bug, open an issue.
@@ -228,9 +230,9 @@ Distributed under the DBAD License. See [LICENSE][License url] for more informat
 [Repo url]: https://github.com/SherpadNdabambi/bootstrap-starter/
 [Bootstrap Starter screenshot url]: ./assets/img/og-image.png
 [Bootstrap Starter url]: https://github.com/sherpadNdabambi/bootstrap-starter/
-[Bootstrap shield url]: https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white
 [HTML5 shield url]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 [HTML5 url]: https://html.spec.whatwg.org/multipage/
+[Bootstrap shield url]: https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white
 [Bootstrap url]: https://getbootstrap.com
 [CSS3 shield url]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
 [CSS3 url]: https://www.w3.org/TR/CSS/#css
@@ -244,7 +246,7 @@ Distributed under the DBAD License. See [LICENSE][License url] for more informat
 [npm url]: https://www.npmjs.com/
 [Documentation url]: https://sherpadndabambi.github.io/bootstrap-starter/
 [changelog url]: ./CHANGELOG.md
-[Personal website url]: http://sherpadndabambi.github.io/
+[Personal website url]: https://sherpadndabambi.github.io/
 [Email address]: mailto:sgndabambi@gmail.com
 [Document Clean SVG vector url]: https://www.svgrepo.com/svg/506180/document-clean
 [SVG Repo url]: https://www.svgrepo.com/
