@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 
 ## [Unreleased]
 
+## [3.0.0] (13 December 2024)
+
+### Added
+
+1. Added tsconfig include array
+
+### Changed
+
+1. Updated CHANGELOG
+1. Updated README
+
 ## [2.0.2] (22 September 2024)
 
 ### Changed
@@ -122,6 +133,7 @@ The format is based on [Keep a Changelog][Keep a Changelog url], and this projec
 [Keep a Changelog url]: https://keepachangelog.com/en/1.0.0/
 [Semantic Versioning url]: https://semver.org/spec/v2.0.0.html
 [reference style links url]: https://www.markdownguide.org/basic-syntax/#reference-style-links
+[3.0.0]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v3.0.0
 [2.0.2]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v2.0.2
 [2.0.1]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v2.0.1
 [2.0.0]: https://github.com/SherpadNdabambi/bootstrap-starter/releases/tag/v2.0.0
