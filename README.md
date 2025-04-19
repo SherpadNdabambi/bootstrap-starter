@@ -77,8 +77,7 @@ Search and replace the following:
 [![HTML5 shield][HTML5 shield url]][HTML5 url]
 [![Bootstrap shield][Bootstrap shield url]][Bootstrap url]
 [![CSS3 shield][CSS3 shield url]][CSS3 url]
-[![Typescript][Typescript shield]][Typescript url]
-[![JavaScript shield][JavaScript shield url]][JavaScript url]
+[![Typescript][Typescript shield url]][Typescript url]
 [![jQuery shield][jQuery shield url]][jQuery url]
 
 <div align=right>
@@ -95,7 +94,7 @@ To get a local copy up and running follow these simple steps.
 
 Make sure you have the following packages installed globally on your machine to use this template.
 
-1. [Node][Node url].
+1. [Node.js][Node.js url].
 1. [npm][npm url].
 1. The TypeScript compiler.
 
@@ -109,6 +108,7 @@ Make sure you have the following packages installed globally on your machine to 
 
    ```sh
    git clone https://github.com/sherpadNdabambi/bootstrap-starter.git
+   cd bootstrap-starter
    ```
 
 1. Compile TypeScript to JavaScript.
@@ -230,19 +230,17 @@ Distributed under the DBAD License. See [LICENSE][License url] for more informat
 [Repo url]: https://github.com/SherpadNdabambi/bootstrap-starter/
 [Bootstrap Starter screenshot url]: ./assets/img/og-image.png
 [Bootstrap Starter url]: https://github.com/sherpadNdabambi/bootstrap-starter/
-[HTML5 shield url]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
+[HTML5 shield url]: https://img.shields.io/badge/HTML5-e54c22?style=for-the-badge&logo=html5&logoColor=white
 [HTML5 url]: https://html.spec.whatwg.org/multipage/
-[Bootstrap shield url]: https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white
+[Bootstrap shield url]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap url]: https://getbootstrap.com
-[CSS3 shield url]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
+[CSS3 shield url]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS3 url]: https://www.w3.org/TR/CSS/#css
-[Typescript shield]: https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white
+[Typescript shield url]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [Typescript url]: https://www.typescriptlang.org/
-[JavaScript shield url]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
-[JavaScript url]: www.ecma-international.org/publications-and-standards/standards/ecma-262/
-[jQuery shield url]: https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white
+[jQuery shield url]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [jQuery url]: https://jquery.com/
-[Node url]: https://nodejs.org/en/download/package-manager/
+[Node.js url]: https://nodejs.org/
 [npm url]: https://www.npmjs.com/
 [Documentation url]: https://sherpadndabambi.github.io/bootstrap-starter/
 [changelog url]: ./CHANGELOG.md
@@ -252,9 +250,9 @@ Distributed under the DBAD License. See [LICENSE][License url] for more informat
 [SVG Repo url]: https://www.svgrepo.com/
 [Bootstrap logo url]: https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg
 [Bootstrap Blog url]: https://blog.getbootstrap.com/
-[Website icon url]: ./assets/img/website-icon.png
+[Website icon url]: ./assets/img/website-ui-web-svgrepo-com.svg
 [Website SVG vector url]: https://www.svgrepo.com/svg/415803/website-ui-web
-[Gmail icon url]: ./assets/img/gmail-icon.png
+[Gmail icon url]: ./assets/img/gmail-old-svgrepo-com.svg
 [Gmail SVG vector url]: https://www.svgrepo.com/svg/349379/gmail-old
 [TinyPNG url]: https://tinypng.com/
 [Best-README-Template url]: https://github.com/othneildrew/Best-README-Template
